@@ -35,7 +35,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Ejercicio Extra1 Tema 6 GIT</title>
+        <title>Ejercicio Extra1 Tema 6 Git 4.e</title>
         <style>
             div{
                 height: auto;
